@@ -23,6 +23,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.14" />
+
   </ItemGroup>
 
 </Project>
